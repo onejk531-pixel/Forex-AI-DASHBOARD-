@@ -1,0 +1,5 @@
+{
+  "name": "Forex AI Dashboard",
+  "description": "A comprehensive forex trading application with real-time data, AI predictions using Gemini, interactive charts, and an alert system. It features a visually impressive dashboard with modern design elements.",
+  "requestFramePermissions": []
+}
